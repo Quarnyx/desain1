@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+.mali_oglas_kategorija {        
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    width: 100px;        
+    padding: 6px 20px 6px 40px;
+    margin: 10px 10px 10px -25px;
+    color: #e5e5e5 !important;
+    background-color: #760000;  
+    -webkit-box-shadow: 3px 2px 4px rgba(0,0,0,.5);
+    -moz-box-shadow: 3px 2px 4px rgba(0,0,0,.5);
+    box-shadow: 3px 2px 4px rgba(0,0,0,.5);}    
+.mali_oglas_kategorija:before{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0px;
+    top: 100%;
+    border-width: 5px 10px;
+    border-style: solid;
+    border-color: #470000 #470000 transparent transparent;
+}
+
+.mali_oglas_kategorija:after{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: -10px;
+    top: 0;
+    border-width: 10px 5px;
+    border-style: solid;
+    border-color: #760000 transparent transparent #760000  ;
+}
+.mali_oglas_kategorija b {
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: -10px;
+    bottom: 0;
+    border-width: 10px 5px;
+    border-style: solid;
+    border-color:  transparent transparent #760000 #760000 ;
+}
+
+
+body { padding: 50px;}
