@@ -265,7 +265,7 @@ th {
   font-family: 'Glyphicons Halflings';
 
   src: url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.eot');
-  src: url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.woff2') format('woff2'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.woff2') format('woff2'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.woff') format('woff'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.ttf') format('truetype'), url('https://rawcdn.githack.com/Quarnyx/desain1/5283e42e859c9f60689da953b07e69e18262a5a3/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
